@@ -29,7 +29,7 @@ pip install pillow requests
 1. Clone this repository or download the script.
 
 ```bash
-git clone https://github.com/aselterik/desktop-screenshot-tool.git
+git clone https://github.com/eteb/desktop-screenshot-tool.git
 ```
 
 2. Navigate to the directory:
